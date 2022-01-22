@@ -84,7 +84,7 @@
                     <!-- ============================================================== -->
                     <div class="col-xl-9 col-lg-12 col-md-6 col-sm-12 col-12">
                         <div class="card">
-                            <h5 class="card-header">Şiparişler Geçmişi</h5>
+                            <h5 class="card-header">Kredi kartları</h5>
                             <div class="card-body p-0">
                                 <div class="table-responsive">
                                     <table class="table">
@@ -131,7 +131,7 @@
                                             }
                                             ?>
                                             <tr>
-                                                <td colspan="9"><a href="#" class="btn btn-outline-light float-right">View Details</a></td>
+                                               
                                             </tr>
                                         </tbody>
                                     </table>

@@ -135,7 +135,7 @@
                                             }
                                             ?>
                                             <tr>
-                                                <td colspan="9"><a href="#" class="btn btn-outline-light float-right">View Details</a></td>
+                                               
                                             </tr>
                                         </tbody>
                                     </table>
